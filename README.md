@@ -17,4 +17,5 @@ Backend Developer (PHP / Laravel)
 
 ## 📫 Contact
 - Email: lenguyenkhanh11a6@gmail.com
-- LinkedIn: https://www.linkedin.com/in/justink07/
+- LinkedIn: https://www.linkedin.com/in/lenguyenkhanh
+- 
